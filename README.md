@@ -1,13 +1,41 @@
-<h1 align="center" color="red">Hi 👋, I'm Ersaf Sirazi Arifin</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<!-- Header -->
+<h1 align="center">👋 Halo, Saya <span style="color:#00C4FF;">Ersaf Ganteng</span></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ersaf1&label=Profile%20views&color=0e75b6&style=flat" alt="ersaf1" /> </p>
-
-- 🌱 I’m currently learning **TypeScript**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <b>💻 Pelajar | 👨‍💻 Developer Pemula | 🚀 Pembelajar Sepanjang Hayat</b><br>
+  "rep mok sindir aku tep stecu"
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🧑‍💼 Tentang Saya
+- 🎓 Saat ini saya adalah pelajar di bidang PPLG  
+- 💡 Tertarik dengan dunia pengembangan aplikasi, desain UI/UX, dan kecerdasan buatan (AI)
+- 🌱 Sedang belajar: React,php,js,node js,flutter
+- 🎯 Tujuan: menjadi programer dan berkontribusi di dunia open-source  
+- ⚡ Fun fact: saya suka kopi tapi tidak suka ngaffe soale boros☕
+
+---
+
+## 🛠️ Skill & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,javascript,tailwind,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🌐 Media Sosial
+<p align="center">
+  <a href="https://instagram.com/3rsapp"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ersaf rexx"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="ersafrexx@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## ✨ Motto Hidup
+> “ojo lali selalu stecu stecu.” 🌱
+
+---
+
+<p align="center">⭐ Jangan lupa follow ⭐</p>
