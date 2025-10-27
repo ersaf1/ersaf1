@@ -13,7 +13,8 @@
 - 💡 Tertarik dengan dunia pengembangan aplikasi, desain UI/UX, dan kecerdasan buatan (AI)
 - 🌱 Sedang belajar: React,php,js,node js,flutter
 - 🎯 Tujuan: menjadi programer dan berkontribusi di dunia open-source  
-- ⚡ Fun fact: saya suka kopi tapi tidak suka ngaffe soale boros☕
+- ⚡ Fun fact: only use ai☕
+  
 
 ---
 
