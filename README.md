@@ -10,7 +10,7 @@
 
 ## 🧑‍💼 Tentang Saya
 - 🎓 Saat ini saya adalah pelajar di bidang PPLG  
-- 💡 Tertarik dengan dunia pengembangan aplikasi, desain UI/UX, dan kecerdasan buatan (AI)
+- 💡 Tertarik dengan dunia pengembangan aplikasi, web programmer, dan kecerdasan buatan (AI)
 - 🌱 Sedang belajar: React,php,js,node js,flutter
 - 🎯 Tujuan: menjadi programer dan berkontribusi di dunia open-source  
 - ⚡ Fun fact: only use ai☕
